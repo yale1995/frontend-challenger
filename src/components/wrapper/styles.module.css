@@ -1,0 +1,7 @@
+.contentContainer {
+  max-width: 64rem;
+  width: 100%;
+
+  margin: 0 auto;
+  padding: 6px 0px;
+}

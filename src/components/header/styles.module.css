@@ -1,0 +1,6 @@
+.headerContainer {
+  height: 150px;
+  
+  background-image: url('../../assets/bg-header.png');
+  background-position: center;
+}
